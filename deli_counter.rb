@@ -19,4 +19,5 @@ def take_a_number (array, name)
   return name, position 
 end 
 
-now_serving (name)
+def now_serving (array)
+  
