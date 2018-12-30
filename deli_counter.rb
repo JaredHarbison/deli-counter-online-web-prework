@@ -14,4 +14,5 @@ end
 
 def take_a_number (array, name)
   array.push (name)
-  position = 
+  position = array.index (name)
+  
